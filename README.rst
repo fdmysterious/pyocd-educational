@@ -13,3 +13,4 @@ List of examples programs
 =========================
 
 - `flash_bin.py`: Flash a binary file
+- `rw_memory_from_elf.py`: Read and write in a memory, based on an elf file and the name of the target symbol
